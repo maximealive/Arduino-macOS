@@ -3,11 +3,7 @@ Use Arduino IDE on your Mac avoiding  to see _/dev/cu.Bluetooth-Incoming-Port_ a
 
 1. Download and install driver
 2. Plug-in your device(I used NodeMCU)
-3. Check on terminal:
-
-        `ls /dev/cu.*`
-  
-    the output should be _/dev/cu.wchusbserialfa130_
+3. Check on terminal: `ls /dev/cu.*` the output should be _/dev/cu.wchusbserialfa130_
 
 ## Materials/Specifications
 - macOS High Sierra 10.13.6
