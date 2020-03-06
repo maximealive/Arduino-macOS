@@ -1,7 +1,9 @@
 # Arduino IDE - macOS
 <p align="center">
   
-![git](https://user-images.githubusercontent.com/12975980/76038350-adb82800-5f49-11ea-874a-eb749f484662.png)
+<img src="https://user-images.githubusercontent.com/12975980/76038350-adb82800-5f49-11ea-874a-eb749f484662.png">
+
+
 </p>
 
 
